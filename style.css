@@ -288,11 +288,12 @@
     color: white;
 }
 
-hr{
-    width: 200px;
-    color: white;
-    align: center;
+.norme{
+    color: rgb(67, 46, 145);
+    margin-top: 60px;
 }
+
+
 
 
 /* Chiusura della pgina */
